@@ -72,7 +72,3 @@ console.log(admins);
    ```sh
    npx ts-node your-file.ts
    ```
-
-## License
-MIT License
-
